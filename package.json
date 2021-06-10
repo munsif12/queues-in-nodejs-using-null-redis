@@ -1,0 +1,18 @@
+{
+  "name": "ques-bull-redis-in-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bull-queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.22.8",
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.1",
+    "redis": "^3.1.2"
+  }
+}
